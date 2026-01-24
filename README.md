@@ -22,6 +22,8 @@ Meu objetivo é atuar como **QA Júnior**, aplicando boas práticas de qualidade
 
 ---
 
-## 📫 Contato
-- LinkedIn: <seu link>
+### **Contato**
+
+**Enzo Andrade | [LinkedIn](https://www.linkedin.com/in/enzo-andrade-4aa1b9200/) | enzoandradef.08@gmail.com**
+
 
