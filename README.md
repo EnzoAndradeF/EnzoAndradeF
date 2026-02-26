@@ -1,22 +1,13 @@
 ##  Olá, eu sou o Enzo
 
-Sou profissional em transição de carreira para **Quality Assurance (QA)**, com foco em **testes manuais, testes de API e automação de testes**.
+Software tester focado em teste exploratório, usabilidade e acessibilidade digital.
 
-Atualmente, venho desenvolvendo projetos práticos voltados para:
-- Validação funcional de sistemas
-- Documentação de testes
-- Testes de API
-- Automação de testes (em evolução)
+Tenho experiência em:
+- Teste manual e exploratório orientado por heurísticas
+- Análise de acessibilidade com base na WCAG 2.1
+- Criação e execução de casos de teste
+- Automação com Selenium (Java) e Playwright (Python)
 
-Meu objetivo é atuar como **QA Júnior**, aplicando boas práticas de qualidade de software e aprendizado contínuo.
-
----
-
-## O que você vai encontrar aqui
-- Projetos de **teste manual e documentação**
-- Projetos de **testes de API**
-- Projetos de **automação de testes**
-- Organização focada em **processo de QA e rastreabilidade**
 
  Confira os repositórios fixados abaixo ⬇️
 
