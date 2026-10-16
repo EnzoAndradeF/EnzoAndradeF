@@ -1,20 +1,25 @@
-##  Olá, eu sou o Enzo
+# Olá, sou o Enzo Andrade
 
-Software tester focado em teste exploratório, usabilidade e acessibilidade digital.
+**Operações em Nuvem e Infraestrutura** 
 
-Tenho experiência em:
-- Teste manual e exploratório orientado por heurísticas
-- Análise de acessibilidade com base na WCAG 2.1
-- Criação e execução de casos de teste
-- Automação com Selenium (Java) e Playwright (Python)
+- **Em foco:** AWS re/Start & Certificação AWS Cloud Foundations (Escola da Nuvem)
+- **Formação acadêmica:** Análise e Desenvolvimento de Sistemas — UniFanor Wyden
 
+### Ferramentas & Tecnologias
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
- Confira os repositórios fixados abaixo ⬇️
+### Contato & Credenciais
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:enzoandradef.08@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzoandradef)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](COLOQUE_AQUI_O_LINK_DO_SEU_PERFIL_CREDLY)
+
 
 ---
-
-### **Contato**
-
-**Enzo Andrade | [LinkedIn](https://www.linkedin.com/in/enzo-andrade-4aa1b9200/) | enzoandradef.08@gmail.com**
-
-
