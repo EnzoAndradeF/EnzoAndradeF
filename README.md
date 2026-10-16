@@ -1,14 +1,9 @@
 # Olá, sou o Enzo Andrade
 
-**Operações em Nuvem e Infraestrutura** 
-
-- **Em foco:** AWS re/Start & Certificação AWS Cloud Foundations (Escola da Nuvem)
-- **Formação acadêmica:** Análise e Desenvolvimento de Sistemas — UniFanor Wyden
-
 ### Ferramentas & Tecnologias
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -22,4 +17,3 @@
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](COLOQUE_AQUI_O_LINK_DO_SEU_PERFIL_CREDLY)
 
 
----
